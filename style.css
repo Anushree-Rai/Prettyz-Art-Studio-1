@@ -1,0 +1,208 @@
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#myCarousel {
+    width: 1349px;
+    height: 400px;
+    background-image: url("https://i.pinimg.com/originals/fc/f1/f5/fcf1f5a43bfa1b608f4ac73bdd87611d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pic2 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic1 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic3 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic4 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic5 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic6 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic7 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic8 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic9 {
+    width: 300px;
+    height: 400px;
+}
+
+#pic10 {
+    width: 300px;
+    height: 400px;
+}
+
+#bio1 {
+    text-align: left;
+    font-size: 110px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    padding-top: 100px;
+    padding-left: 17px;
+}
+
+#bio {
+    background-color: rgb(247, 247, 247);
+    background-image: url("smoke\ colour.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+
+#intro {
+    font-family: cursive;
+    text-align: right;
+    color: black;
+    font-size: 24px;
+    padding-right: 75px;
+    margin-left: 400px;
+    padding-bottom: 100px;
+    font-weight: bold;
+}
+
+#courses1 {
+    text-align: right;
+    font-size: 110px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    padding-top: 100px;
+    padding-right: 30px;
+}
+
+#courses {
+    background-color: rgb(247, 247, 247);
+    background-image: url("paint\ splatter.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#course_info {
+    font-family: cursive;
+    text-align: left;
+    font-size: 24px;
+    margin-right: 400px;
+    padding-bottom: 100px;
+    font-weight: bold;
+    color: rgb(107, 18, 18);
+}
+
+#abc {
+    font-family: cursive;
+    text-align: left;
+    font-size: 28px;
+    color: red;
+    font-weight: bold;
+    padding-left: 75px;
+    margin-top: 0px;
+}
+
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+#contact1 {
+    text-align: right;
+    font-size: 110px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+
+#contact2 {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#reg1 {
+    text-align: left;
+    font-size: 110px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: black;
+    margin-top: 100px;
+    padding-left: 17px;
+}
+
+#registration {
+    background-color: rgb(247, 247, 247);
+    background-image: url("colour1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#inst {
+    font-family: cursive;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding-right: 75px;
+    margin-top: 0px;
+}
+
+#link {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    background-color: rgb(255, 0, 242);
+    color: white;
+
+}
+
+#link:hover {
+    outline-style: dotted;
+}
+
+#a
+{
+    font-size: 18px;
+}
+
+#Flyer{
+    text-align: left;
+    width: 300;
+    height: 300;
+}
